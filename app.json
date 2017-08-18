@@ -1,0 +1,7 @@
+{
+    "name": "Contact Manager",
+    "description": "Contact Manager with React and Node.js",
+    "repository": "https://github.com/khatrihimanshu41/ContactManagerDemo.git",
+    "logo": "",
+    "keywords": ["node", "express", "react", "contact"]
+}
